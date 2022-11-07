@@ -1,0 +1,63 @@
+Day-1 
+5min wait
+close your phones!!!!
+
+what you will be learning today!!
+
+My Motive-- is to teach the juniors the possible tech existing since our parents are not blessed enough to know these 
+stuff
+LANGUAGE doesnt matter , effort does , knowledge does....
+why python???
+worlds fastest growing language,
+best support from community of devlopers round the world ,
+growing exponentiallyy!!
+
+intro myself my journey and projects 
+installation
+idle,ide,script,basics,hw,sharing ,end!!
+
+blahh ...
+and then we end the session 
+
+PS-- things will go random sometimes if i remember something in BW then i will share that too
+
+
+Intro-2-5 min with applications-projects 
+
+i ve been on the journey you all are starting 
+you have me i had none LOL
+its been just a yr 
+and here i am 4star
+kaggle expert , build some really cool things ,but still a long way to go  
+
+fool enough to delete my project without backup LOL
+
+basic-automation
+instabot
+level 2 - (mydomains) data analysis NB show
+level3 - machine learning (object detection wala & iris flower)	
+
+are you excited 
+now its your turn to get started 
+
+10-15 min INSTALLATION (3.8/3.7)
+
+10-15min
+whats IDLE??
+print('hello world')
+basic operations batane hai 
+intergers ke bas 
+
+cant go deep on first day!!!!
+
+whats an IDE?
+whats a script ??
+
+where will you find the files (GITHUB probably)!!
+
+H.W.(something i expect everyone to atleast give time to for 30 min - 1hr (min))
+
+
+
+
+
